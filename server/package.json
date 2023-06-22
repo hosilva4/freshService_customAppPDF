@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs-jetpack": "^5.1.0",
+    "html-pdf-node": "^1.0.8",
+    "unirest": "^0.6.0",
+    "util": "^0.12.5"
+  }
+}
